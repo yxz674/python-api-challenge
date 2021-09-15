@@ -66,16 +66,6 @@ To complete this part of the assignment,you will need to do the following:
 * <img width="691" alt="Map2" src="https://user-images.githubusercontent.com/87953612/133354930-cfb44b49-f882-4a46-94d9-c6a88e9d76cd.PNG">
 
 
-As final considerations:
-
-* You must complete your analysis using a Jupyter notebook.
-* You must use the Matplotlib or Pandas plotting libraries.
-* For Part I, you must include a written description of three observable trends based on the data.
-* For Part II, you must include a screenshot of the heatmap you create and include it in your submission.
-* You must use proper labeling of your plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
-* For max intensity in the heat map, try setting it to the highest humidity found in the data set.
-
-
 - - -
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
