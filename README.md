@@ -76,10 +76,6 @@ As final considerations:
 * For max intensity in the heat map, try setting it to the highest humidity found in the data set.
 
 
-## Rubric
-
-[Unit 6 Rubric - Python API Homework - What's the Weather Like?](https://docs.google.com/document/d/1Y17QYjs0KMeEPPGd_1BpMjnqXiTaJVeFwqea5ReMdeU/edit?usp=sharing)
-
 - - -
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
