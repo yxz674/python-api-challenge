@@ -1,0 +1,8 @@
+Written Description of three observable trends based on the data:
+
+Latitude vs Temperature scatter plot shows that the coorelative relationship between city latitude and city's max temperature. It consists of a curved shape line and it means the cities located around the equator has higher max temperature than cities far from the equater.
+Latitude vs Humidity scatter plot is analyzing the coorelative relationship between city latitude and city's humidity percentage.It relatively shows that cities located in nothern atmosphere has a little bit higher humidity.
+Latitude vs. Cloudiness and Wind Speed scatter illustrates the coorelative relationship between city latitude and city's cloudiness percentage.This polt doesn't really show a strong correlation between these two factors.
+Northern Hemisphere and Southern Hemisphere Max temp vs. Latitude Linear Regression both show that the higher the latitude the lower the temperature.
+Northern Hemisphere and Southern Hemisphere Humidity vs. Latitude Linear Regression shows that there is a slight positive relationship between humidity and latitude.The higher latitude the higher humudity level.
+Northern Hemisphere and Southern Hemisphere Cloudiness vs. Latitude Linear Regression and Northern Hemisphere and Southern Hemisphere Wind Speed vs. Latitude Linear Regression doesn't really show any strong relationships as well.
